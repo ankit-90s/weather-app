@@ -1,4 +1,4 @@
-# weather-app
+
 # Weather App 🌦️
 
 This is my first GitHub project.
